@@ -27,8 +27,7 @@ body{
     font-size: 20px;
     flex: 1;
     text-align: center;
-    margin-top: 30px;
-    margin-left: 20px;
+    margin: 30px auto;
     background-color: rgb(199, 197, 197);
     padding: 10px 0;
 }
